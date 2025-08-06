@@ -89,7 +89,7 @@
     </section>
 
     <footer>
-        <p class="footer-text">&copy; 2025 Деревянные Каркасы. Все права защищены.</p>
+        <p class="footer-text">&copy; 2020 Деревянные Каркасы. Все права защищены.</p>
     </footer>
 
 </body>
